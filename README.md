@@ -98,6 +98,7 @@ Editable CAD source files are intentionally excluded.
 * Component selection and implementation follow the **WCH CH340G datasheet** and standard USB Full-Speed design guidelines.
 
 * Some YouTube tutorials and online articles on USB-to-UART designs were consulted during development.<br/>
+[PCB Cupid](https://www.youtube.com/playlist?list=PLn6004q9oeqGl91KifK6xHGuqvXGb374G) <br/>
 [Hardik Seth](https://www.youtube.com/@DIYwithHardik) <br/>
 [Electronics Globe](https://www.youtube.com/@electronicsglobeofficial)
 
