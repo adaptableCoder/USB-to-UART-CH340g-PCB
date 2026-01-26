@@ -1,0 +1,19 @@
+Project: USB to UART Converter (CH340G)
+
+PCB Specifications:
+- Layers: 2
+- Board thickness: 1.6 mm
+- Copper weight: 1 oz (top and bottom)
+- Base material: FR4
+- Surface finish: ENIG
+
+USB Edge Connector:
+- USB-A edge card connector
+- Bevelled edge required
+- No solder mask or silkscreen on edge fingers
+
+Manufacturing Notes:
+- Standard solder mask both sides
+- No impedance-controlled traces required
+- Drill files provided separately for PTH and NPTH
+- Gerber X2 format with job file included
