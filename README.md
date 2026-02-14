@@ -1,9 +1,10 @@
 # USB to UART Converter (CH340G)
 
 A compact **USB-to-UART adapter** based on the **CH340G**, implemented as a **USB-A edge connector board**.
-
 Fabrication files have been generated; board fabrication is pending.
 
+![PCB Top 3D View](https://github.com/adaptableCoder/USB-to-UART-CH340g-PCB/blob/main/docs/images/PCB%20-%20Top%20View%203D.png)
+![PCB Bottom 3D View](https://github.com/adaptableCoder/USB-to-UART-CH340g-PCB/blob/main/docs/images/PCB%20-%20Bottom%20View%203D.png)
 ---
 
 ## Overview
@@ -76,7 +77,6 @@ usb-to-uart-ch340g/
 ```
 
 Only documentation and fabrication-relevant artifacts are included.
-Editable CAD source files are intentionally excluded.
 
 ---
 
