@@ -60,7 +60,7 @@ The board supports both **5 V and 3.3 V UART logic levels** via jumper selection
 ## Repository Structure
 
 ```
-usb-to-uart-ch340g/
+usb-to-uart-ch340g-pcb/
 ├── README.md
 ├── LICENSE
 ├── docs/
@@ -73,11 +73,14 @@ usb-to-uart-ch340g/
 ├── fabrication/
 │   ├── USB-to-UART-CH340G_Gerbers.zip
 │   └── fab-notes.txt
-└── changelog.md
+├── datasheet/
+│   └── CH340G_datasheet.pdf
+└── KiCAD files/
+    ├── usb-to-uart.kicad_pro
+    ├── usb-to-uart.kicad_sch
+    ├── usb-to-uart.kicad_prl
+    └── usb-to-uart.kicad_pcb
 ```
-
-Only documentation and fabrication-relevant artifacts are included.
-
 ---
 
 ## Fabrication Details
